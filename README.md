@@ -46,9 +46,11 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![WhatsApp Image 2024-04-27 at 13 49 20_fd90be86](https://github.com/BHARATHNATRAJAN/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147473529/762bb412-37fa-49e6-bd71-86b18901c1dc)
 
-### Name:
-### Register Number:
+
+### Name:Selva Kumar A
+### Register Number:212222110042
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
